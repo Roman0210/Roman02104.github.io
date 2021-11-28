@@ -1,0 +1,19 @@
+
+body{background-color: #ffefd5;}
+hr{border-style: none;
+  border-top-style : dotted;
+  border-color: #800000;
+  border-width: 5px;
+  width:25%;}
+H1, H2 { color: #800000;}
+H2 {text-decoration: underline;}
+UL {font-style: italic;
+   font-weight: bold;}
+img[src]{
+   width:360px;}
+a[href]:hover{
+  margin-left: 1%;
+}
+h1{
+text-align:center
+}

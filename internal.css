@@ -1,0 +1,51 @@
+.e
+{
+background: url(park-aleksandriya-dendropark-progulki-pogulyat-dendrologicheskij-park-interesnoe-mesto-dlya-progulok-5603e1d1ae982.jpg);
+background-size:cover;
+}
+.a
+{height:15vh;
+}
+.b
+{height:80vh;
+text-align:center;
+color:#FFFFFF;
+}
+.a1{
+color: #fff;
+text-decoration: none;
+}
+.b1 {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #8C959D; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1vh 1.5vh; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 30px; /* Скругляем уголки */
+}
+.x
+{
+margin: 15vh 20vh 15vh 20vh;
+}
+.c
+{height:40px;
+background-color:silver;
+}
+.f
+{height:100px;
+background-color:Black;
+}
+.p
+{
+margin: 0 0 75px 0;
+text-align:center;
+color:#808080;
+}
+#d{ display: flex;
+justify-content: space-between;
+}
+.d1{
+width:48%;
+text-align:center;
+color:#808080;
+}
